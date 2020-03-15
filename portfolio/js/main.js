@@ -10,13 +10,13 @@ doc.ready(function(){
 
 	$(window).scrollTop(0);
 
-	var typed = new Typed(".mytext", {
-	  strings: ["Software Engineer"],
-	  smartBackspace: true, // Default value
-	  loop:false,
-	  backDelay: 1000,
-	  typeSpeed: 0.2
-	});
+	// var typed = new Typed(".mytext", {
+	//   strings: ["Software Engineer"],
+	//   smartBackspace: true, // Default value
+	//   loop:false,
+	//   backDelay: 1000,
+	//   typeSpeed: 0.2
+	// });
 
 	$('.navbar-nav').onePageNav({
 		currentClass: 'active'
