@@ -1,0 +1,72 @@
+@media screen and (max-width: 991px){
+
+	.navbar-nav li.nav-item
+	{
+		margin:15px 0;
+		text-align: center;
+	}
+
+	.navbar-nav-bg
+	{
+		background-color: rgba(0,0,0,0.7);
+	}
+
+	.services-content .row .col-lg-4
+	{
+		margin-top: 60px;
+	}
+
+	.services-content .row .col-lg-4:nth-child(1)
+	{
+		margin-top: 0;
+	}
+
+	.main .type
+	{
+		font-size: 40px;
+	}
+
+	.post-image
+	{
+		height: 400px;
+	}
+}
+
+@media screen and (max-width: 767px){
+
+	.about .col-md-7
+	{
+		margin-top: 60px;
+	}
+
+	.education, .experience, .about .col-md-7,.skills
+	{
+		text-align: center;
+	}
+
+	.post-image
+	{
+		height: 350px;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.post-image
+	{
+		height: 300px;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.main .type
+	{
+		font-size: 24px;
+	}
+}
+
+@media screen and (max-width: 450px){
+	.post-image
+	{
+		height: 250px;
+	}
+}
