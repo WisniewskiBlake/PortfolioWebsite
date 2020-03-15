@@ -362,8 +362,11 @@ canvas
 
 /** about styles **/
 
+
+/** TAKE OUT HEIGHT ONCE WE GET GOOD PIC **/
 .about img
 {
+	height: 450px;
 	width: 100%;
 }
 
