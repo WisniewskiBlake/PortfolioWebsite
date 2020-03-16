@@ -11,9 +11,9 @@ doc.ready(function(){
 	$(window).scrollTop(0);
 
 	// var typed = new Typed(".mytext", {
-	//   strings: ["Software Engineer"],
+	//   strings: ["Musician", "Artist", "Composer"],
 	//   smartBackspace: true, // Default value
-	//   loop:false,
+	//   loop:true,
 	//   backDelay: 1000,
 	//   typeSpeed: 0.2
 	// });
