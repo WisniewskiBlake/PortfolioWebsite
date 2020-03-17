@@ -667,16 +667,15 @@ canvas
 /* changes width of phone with profile in second pic */
 .item-content img.test
 {	
-	width: 50%;	
+	width: 100%;	
 	transition: all 0.5s ease;
 	transform:scale(1)rotate(0deg);
 }
 
 /* changes dimensions of websites with profile in first pic */
 .item-content img.firstpic
-{
-	
-	width: 300px;	
+{	
+	width: 200%;	
 	transition: all 0.5s ease;
 	transform:scale(1)rotate(0deg);
 }
@@ -686,7 +685,7 @@ canvas
 /* changes size of little picture borders */
 .portfolio-item.col-md-3 img
 {	
-	height: 250px;
+	height: 200px;
 }
 
 
