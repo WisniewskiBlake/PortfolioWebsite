@@ -675,8 +675,8 @@ canvas
 /* changes dimensions of websites with profile in first pic */
 .item-content img.firstpic
 {
-	height: 20px;
-	width: 100%;	
+	
+	width: 300px;	
 	transition: all 0.5s ease;
 	transform:scale(1)rotate(0deg);
 }
