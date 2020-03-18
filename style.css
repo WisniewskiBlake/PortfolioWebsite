@@ -232,7 +232,7 @@ button:focus
 .main-content .welcome
 {
 	
-	font-size: 65px;
+	font-size: 70px;
 }
 
 .main-content .type
@@ -632,7 +632,7 @@ canvas
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgba(1, 19, 5, 0.774);
+	background-color: rgba(11, 53, 0, 0.774);
 }
 
 .portfolio h3
