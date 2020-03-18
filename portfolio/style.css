@@ -617,7 +617,7 @@ canvas
 
 .portfolio
 {
-	background:url(img/water1.jpg);
+	background:url(img/1.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -632,12 +632,12 @@ canvas
 	height: 100%;
 	top: 0;
 	left: 0;
-	
+	background-color: rgba(17, 145, 45, 0.63);
 }
 
 .portfolio h3
 {
-	font-size: 45px;
+	font-size: 60px;
 	color: #fff;
 }
 
