@@ -617,7 +617,7 @@ canvas
 
 .portfolio
 {
-	background:url(img/1.jpg);
+	background:url(img/portfolio/22.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -632,7 +632,7 @@ canvas
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgba(11, 53, 0, 0.774);
+	background-color: rgba(0, 65, 11, 0.774);
 }
 
 .portfolio h3
