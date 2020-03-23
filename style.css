@@ -461,10 +461,10 @@ canvas
 {
 	position: absolute;
 	content: '';
-	width: 100%;
+	width: 95%;
 	height: 2px;
 	left: 0;
-	bottom: 3px;
+	bottom: 3px;	
 	background-color: #fff;
 }
 
@@ -476,6 +476,7 @@ canvas
 
 .exp-skills h3
 {
+	font-size: 38px;
 	position: relative;
 	display: inline-block;
 }
@@ -485,20 +486,27 @@ canvas
 	position: absolute;
 	content: '';
 	width: 100%;
-	height: 5px;
+	height: 4px;
 	left: 0;
-	bottom: -5px;
+	bottom: -6px;
 	background-color: #e84118;
 }
 
 .exp-skills h5
 {
-	margin-top: 30px;
+	margin-top: 20px;
+	font-size: 22px;
 }
 
+
 .exp-skills ul
-{	
+{		
 	list-style: none;
+}
+
+.gradassist
+{		
+	margin-top: 25px;
 }
 
 .exp-skills h6

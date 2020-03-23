@@ -73,7 +73,7 @@ doc.ready(function(){
 			$(this.element).addClass("animated "+cssvalue);
 			$(this.element).css('opacity','1').fadeIn(2000);
 		  },
-		  offset: '70%'
+		  offset: '85%'
 		})
 
 	});
