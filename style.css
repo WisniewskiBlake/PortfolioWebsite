@@ -426,6 +426,10 @@ canvas
 
 /** exp-skills styles **/
 
+.col-md-6 {
+	margin-bottom: 25px;
+}
+
 .exp-skills
 {
 	background:url(img/about-bg.jpg);
