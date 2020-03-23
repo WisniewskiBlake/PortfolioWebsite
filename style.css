@@ -497,13 +497,18 @@ canvas
 }
 
 .exp-skills ul
-{
+{	
 	list-style: none;
 }
 
 .exp-skills h6
-{
+{	
 	color: #ddd;
+}
+
+.skills-title
+{
+	font-size: 18px;
 }
 
 
@@ -513,7 +518,7 @@ canvas
 }
 .progress-content
 {
-	width: 100%;
+	width: 75%;
 	height: 20px;
 	background-color: rgba(0,0,0,0.7);
 	border-radius:20px;
@@ -537,7 +542,7 @@ canvas
 	color: #333;
 	background-color: #fff;
 	padding: 1px 5px;
-	font-size: 12px;
+	font-size: 13px;
 	border-radius: 10px;
 }
 
